@@ -1,3 +1,5 @@
+#پاییز 1402
+
 from tkinter import *
 
 def btnClick(numbers):
